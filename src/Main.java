@@ -4,11 +4,7 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
-/*Создайте метод, который принимает переменную типа List. Выведите описание всех методов переданного списка.
-В main вызовите метод, передав в него экземпляр ArrayList, экземпляр LinkedList
-экземпляр, полученный методом List.of().
 
- */
 public class Main {
 
 
